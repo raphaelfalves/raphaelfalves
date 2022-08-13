@@ -1,9 +1,9 @@
-- 👋 fala bro eu sou o phael. Dev junior na linguagem C
+- 👋 fala bro eu sou o rapha. Dev junior 
 ##
-- 👀 eu estou interessado em tudo pra ser sincero, mas meu foco agora (não que ele não possa mudar) é backend.
-- 🌱 eu estou aprendendo .net , estudei e estudo muito logica de programação e sei bastante sobre C.
-- 💞️ eu quero colaborar em tudo que poder, me dedico muito ao meu trabalho e aos meus estudos para que eu consiga resolver os problemas das pessoas. 
-- 📫 voçês podem me achar pelo intagram @raphael.rfa, pelo linkdlin https://www.linkedin.com/in/raphael-alves-680815181/ agradeço a qualquer ajuda.
+- 👀 Eu estou seguindo a trilha de Dev Full stack, mas meu foco agora é backend .
+- 🌱 Eu estou aprendendo .net , aprendi C logo na primeiro módulo da faculdade .
+- 💞️ Me dedico muito ao meu trabalho e aos meus estudos aprendi cedo que com uma rotina correta tenho mais tempo de sobra . 
+- 📫 voçê pode me achar pelo intagram @raphael.rfa, pelo linkdlin https://www.linkedin.com/in/raphael-alves-680815181/ agradeço a qualquer ajuda.
 
 ##
 
