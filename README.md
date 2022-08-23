@@ -1,6 +1,7 @@
 - 👋 fala bro eu sou o rapha. Dev junior 
+##CAIU DE PARAQUEDAS AQUI CALMA, ESSE PERFIL ESTA DESATUALIZADO DOMINGO(28/08) VOU COLOCAR OS NOVOS PROJETOS ##
 ##
-- 👀 Eu estou seguindo a trilha de Dev Full stack, mas meu foco agora é backend .
+- 👀 Eu estou seguindo a trilha de Dev Full stack.
 - 🌱 Eu estou aprendendo .net , aprendi C logo no primeiro módulo da faculdade .
 - 💞️ Me dedico muito ao meu trabalho e aos meus estudos aprendi cedo que com uma rotina correta tenho mais tempo de sobra . 
 - 📫 voçê pode me achar pelo intagram @raphael.rfa, pelo linkdlin https://www.linkedin.com/in/raphael-alves-680815181/ agradeço a qualquer ajuda.
