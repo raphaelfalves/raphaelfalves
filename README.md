@@ -1,5 +1,6 @@
 - 👋 fala bro eu sou o rapha. Dev junior 
 ##CAIU DE PARAQUEDAS AQUI CALMA, ESSE PERFIL ESTA DESATUALIZADO DOMINGO(28/08) VOU COLOCAR OS NOVOS PROJETOS ##
+##Achou que não ia ter achou errado estou aqui ta saindo##
 ##
 - 👀 Eu estou seguindo a trilha de Dev Full stack.
 - 🌱 Eu estou aprendendo .net , aprendi C logo no primeiro módulo da faculdade .
