@@ -1,10 +1,8 @@
-- 👋 fala bro eu sou o rapha. Dev junior 
-##CAIU DE PARAQUEDAS AQUI CALMA, ESSE PERFIL ESTA DESATUALIZADO DOMINGO(28/08) VOU COLOCAR OS NOVOS PROJETOS ##
-##Achou que não ia ter achou errado estou aqui ta saindo##
-##
+- 👋 fala bro eu sou o Raphael. Dev junior em C# e tecnologias .NET 
+
 - 👀 Eu estou seguindo a trilha de Dev Full stack.
-- 🌱 Eu estou aprendendo .net , aprendi C logo no primeiro módulo da faculdade .
-- 💞️ Me dedico muito ao meu trabalho e aos meus estudos aprendi cedo que com uma rotina correta tenho mais tempo de sobra . 
+- 🌱 Eu estou aprendendo javascript agora.
+- 💞️ Me dedico muito ao meu trabalho e aos meus estudos aprendi cedo que com uma rotina correta tenho mais tempo de sobra. 
 - 📫 voçê pode me achar pelo intagram @raphael.rfa, pelo linkdlin https://www.linkedin.com/in/raphael-alves-680815181/ agradeço a qualquer ajuda.
 
 ##
@@ -18,10 +16,17 @@
 ##
 
 <div>
- 🖥️ - LINGUAGENS QUE SEI -
+ 🖥️ - Linguagens e ferramentas que uso -
 </div> 
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />    
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />         
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+          
+  
+                         
 </div>
 
 ##
