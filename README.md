@@ -1,7 +1,7 @@
 - 👋 fala bro eu sou o Raphael. Dev junior em C# e tecnologias .NET 
 
 - 👀 Eu estou seguindo a trilha de Dev Full stack.
-- 🌱 Eu estou aprendendo javascript agora.
+- 🌱 Fera em algoritmo.
 - 💞️ Me dedico muito ao meu trabalho e aos meus estudos aprendi cedo que com uma rotina correta tenho mais tempo de sobra. 
 - 📫 voçê pode me achar pelo intagram @raphael.rfa, pelo linkdlin https://www.linkedin.com/in/raphael-alves-680815181/ agradeço a qualquer ajuda.
 
