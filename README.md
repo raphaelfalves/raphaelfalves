@@ -1,22 +1,35 @@
-## 👋 fala bro eu sou o Raphael.  
-<hr>
+<img src="https://static.vecteezy.com/ti/vetor-gratis/p1/1904408-desenho-desenho-homem-negro-em-computador-design-gr%C3%A1tis-vetor.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-- 👨‍💻 Dev web Full stack junior .NET.
-- 🌱 Sou fera em algoritmo, gosto muito de resolver desafios.
-- 💂‍♂️ Disciplinado, e determinado. 
-- 👨‍🎓 Cursando faculdade de Engenharia de software .
+## 👋 fala bro eu sou o Raphael.  
+
+<p>👨‍💻 Dev .NET Full Stack jr.</p>
+<p>🏆 Sou fera em algoritmo, gosto muito de resolver desafios.</p>
+<p>💂‍♂️ Disciplinado, e determinado.</p> 
+<p>👨‍🎓 Cursando <b>Engenharia de software</b> na <b>UniCesumar</b>.</p>
+<p>🏃‍♂️ Correndo atrás de experiencia para ser contratado.</p>
+<p>💰 Pretensão salarial R$: 2.500,00 mas tudo nessa vida é conversado.</p>
 
 ##
 
+### 📫 Pleno em pele de junior por preço de estagiario me manda mensagem : 
+<div>
+  <a href="https://www.linkedin.com/in/raphael-alves-680815181" target="_blank"><img width="111" height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/raphaelalves19"><img width="106" height="28" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+  <a href="https://api.whatsapp.com/send?phone=5538991751707"><img width="106" height="28" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
+
+# 🚀 Minhas skills
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+
+##
 <div>
   <a href="https://github.com/raphael-rfa">
-  <img height="45%" width="45%" src="https://github-readme-stats.vercel.app/api?username=raphael-rfa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="38%" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-rfa&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="45%" width="45%" src="https://github-readme-stats.vercel.app/api?username=raphael-rfa&show_icons=true&theme=transparent"/>
+  <img height="38%" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-rfa&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 ##
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-##
-<div>
-  <a href="https://www.linkedin.com/in/raphael-alves-680815181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+
+
