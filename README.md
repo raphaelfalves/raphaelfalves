@@ -6,7 +6,7 @@
 <p>🏆 Sou fera em algoritmo, gosto muito de resolver desafios.</p>
 <p>💂‍♂️ Disciplinado, e determinado.</p> 
 <p>👨‍🎓 Cursando <b>Engenharia de software</b> na <b>UniCesumar</b>.</p>
-<p>🏃‍♂️ Correndo atrás de experiencia para ser contratado.</p>
+<p>🏃‍♂️ Correndo atrás de conhecimento.</p>
 <p>💰 Pretensão salarial R$: 2.500,00 mas tudo nessa vida é conversado.</p>
 
 ##
