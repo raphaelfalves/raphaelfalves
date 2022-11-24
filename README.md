@@ -1,6 +1,6 @@
 <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/1904408-desenho-desenho-homem-negro-em-computador-design-gr%C3%A1tis-vetor.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-## 👋 fala bro eu sou o Raphael.  
+## 👋 Fala bro eu sou o Raphael.  
 
 <p>👨‍💻 Dev .NET Full Stack jr.</p>
 <p>🏆 Sou fera em algoritmo, gosto muito de resolver desafios.</p>
