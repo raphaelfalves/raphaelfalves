@@ -1,4 +1,4 @@
-<img src="https://static.vecteezy.com/ti/vetor-gratis/p1/1904408-desenho-desenho-homem-negro-em-computador-design-gr%C3%A1tis-vetor.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://i.pinimg.com/564x/b9/1a/f3/b91af3e5f79edb5763643063155f7501.jpg" max-width="300px" width="300px" align="right" alt="Computador">
 
 ## 👋 Fala bro eu sou o Raphael.  
 
