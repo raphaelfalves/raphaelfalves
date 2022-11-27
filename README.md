@@ -14,8 +14,6 @@
 ### 📫 Pleno em pele de junior por preço de estagiario me manda mensagem : 
 <div>
   <a href="https://www.linkedin.com/in/raphael-alves-680815181" target="_blank"><img width="111" height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/raphaelalves19"><img width="106" height="28" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
-</a>
   <a href="https://api.whatsapp.com/send?phone=5538991751707"><img width="106" height="28" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
