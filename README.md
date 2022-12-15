@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=raphael-rfa&label=Profile%20views&color=0e75b6&style=flat" alt="leticiazimerer" /> </p>
 <img src="https://i.pinimg.com/564x/b9/1a/f3/b91af3e5f79edb5763643063155f7501.jpg" max-width="300px" width="300px" align="right" alt="Computador">
 
 ## 👋 Fala bro eu sou o Raphael.  
