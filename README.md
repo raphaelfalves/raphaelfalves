@@ -8,7 +8,7 @@
 <p>💂‍♂️ Disciplinado, e determinado.</p> 
 <p>👨‍🎓 Cursando <b>Engenharia de software</b> na <b>UniCesumar</b>.</p>
 <p>🏃‍♂️ Correndo sempre atrás de conhecimento.</p>
-<p>💰 Pretensão salarial R$: 2.500,00 mas tudo nessa vida é conversado.</p>
+<p>💰 Pretensão salarial R$: 3.000,00 .</p>
 
 ##
 
