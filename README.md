@@ -3,7 +3,7 @@
 
 ## 👋 Fala bro eu sou o Raphael.  
 
-<p>👨‍💻 Dev .NET Full Stack jr.</p>
+<p>👨‍💻 Dev .NET Full Stack.</p>
 <p>🏆 Sou fera em algoritmo, gosto muito de resolver desafios.</p>
 <p>💂‍♂️ Disciplinado, e determinado.</p> 
 <p>👨‍🎓 Cursando <b>Engenharia de software</b> na <b>UniCesumar</b>.</p>
