@@ -15,8 +15,8 @@
 ##
 <div>
   <a href="https://github.com/raphael-rfa">
-  <img height="45%" width="45%" src="https://github-readme-stats.vercel.app/api?username=raphael-rfa&show_icons=true&theme=transparent"/>
-  <img height="44%" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-rfa&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="45%" width="45%" src="https://github-readme-stats.vercel.app/api?username=raphaelfalves&show_icons=true&theme=transparent"/>
+  <img height="44%" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelfalves&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 ##
