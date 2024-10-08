@@ -3,14 +3,14 @@
 
 ## 👋 Fala bro eu sou o Raphael.  
 
-<p>👨‍💻 Dev .NET Full Stack.</p>
+<p>👨‍💻 Dev Back-End .NET.</p>
 <p>🏆 Sou fera em algoritmo, gosto muito de resolver desafios.</p>
 <p>💂‍♂️ Disciplinado, e determinado.</p> 
 <p>👨‍🎓 Cursando <b>Engenharia de software</b> na <b>UniCesumar</b>.</p>
 <p>🏃‍♂️ Correndo sempre atrás de conhecimento.</p>
 
 # 🚀 Minhas skills
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> <img height="30" width="40" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo-Transparent.png" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> <img height="30" width="40" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo-Transparent.png" /> <img height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 ##
 <div>
